@@ -1,6 +1,6 @@
 // pprof 서버 활성
 // 이 패키지를 포함 하려면 
-// import _ "github.com/hyhecor/go-example/debug/pprof"
+// import _ "github.com/hyhecor/go-debug/pprof"
 // +build debug
 
 package pprof
